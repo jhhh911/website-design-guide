@@ -1,0 +1,116 @@
+html {
+  display: block;
+}
+
+body {
+  margin: 0 10%;
+  font-family: 'Inter', serif;
+}
+
+h1 {
+  font-weight: 700;
+  font-family:'Lora', serif;
+  font-size: 26px;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Open Sans', serif;
+}
+
+p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Inter', serif;
+}
+
+.colors {
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.teal {
+  margin: 5px;
+  border: 1px solid #309898;
+  min-height: 100px;
+  width: 32%;
+  text-align: center;
+  display: inline-block;
+  background-color: #309898;
+}
+
+.orange {
+  margin: 5px;
+  border: 1px solid #FF9F00;
+  min-height: 100px;
+  width: 32%;
+  text-align: center;
+  display: inline-block;
+  background-color: #FF9F00;
+}
+
+.tomato {
+  margin: 5px;
+  border: 1px solid #F4631E;
+  min-height: 100px;
+  width: 32%;
+  text-align: center;
+  display: inline-block;
+  background-color: #F4631E;
+}
+
+.crimson {
+  margin: 5px;
+  border: 1px solid #CB0404;
+  min-height: 100px;
+  width: 32%;
+  text-align: center;
+  display: inline-block;
+  background-color: #CB0404;
+}
+
+.fonts {
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.text {
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+  width: 30%;
+  display: inline-block;
+}
+
+.lora {
+  font-family: 'Lora', serif;
+}
+
+.sans {
+  font-family: 'Open Sans', serif;
+}
+
+.inter {
+  font-family: 'Inter', serif;
+}
+
+.bold {
+font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
